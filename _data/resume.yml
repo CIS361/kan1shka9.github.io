@@ -1,0 +1,21 @@
+# IMPORTANT: Set this to false.
+demo: false
+
+# Theme customization is done on this file instead of _config.yml so that
+# you don't have to restart Jekyll to see changes.
+
+photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/8/000/24f/12f/056a431.jpg"
+name: "Kanishka Sunnam"
+copy: "I'm a software engineer based in Los Angeles, California. I'm currently persuing Masters in Computer Science at California State University, Los Angeles."
+
+# Color scheme based on http://www.materialui.co/colors.
+# Possible values:
+# - default
+# - red
+# - pink
+# - brown
+# - blue
+# - purple
+# - teal
+# - green
+color: brown
