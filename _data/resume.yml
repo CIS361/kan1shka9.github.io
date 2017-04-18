@@ -4,7 +4,7 @@ demo: false
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/8/000/24f/12f/056a431.jpg"
+photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAtBAAAAJGNhZjA5ZjRmLTM3OGMtNDQwZS04ZTMzLTI0MTYxNzMwNjNmMA.jpg"
 name: "Kanishka Sunnam"
 copy: "I'm a software engineer based in Los Angeles, California. I'm currently persuing Masters in Computer Science at California State University, Los Angeles."
 
